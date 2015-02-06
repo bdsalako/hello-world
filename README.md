@@ -1,2 +1,2 @@
 # hello-world
-This is my first program written in Java
+This is my first program written in Java!
